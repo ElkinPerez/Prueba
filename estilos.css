@@ -22,3 +22,10 @@ body
     font-size: 20px;
 
 }
+
+#cabecera
+
+{
+    padding: 20px;
+    background-color: red;
+}
