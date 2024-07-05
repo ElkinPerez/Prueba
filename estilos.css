@@ -1,7 +1,7 @@
 body
 {
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     color: black;
     font-size: 16px;
 }
@@ -26,6 +26,26 @@ body
 #cabecera
 
 {
-    padding: 20px;
-    background-color: red;
+    font-size: 20px;
+    color: white;
+    padding: 0.5em;
+    background: red;
+    font-weight: bold;
+    margin: 0;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+#cabecera #tagline
+
+{
+    padding: 0 0 0 1em;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+#post
+
+{
+    padding: 1em;
 }
