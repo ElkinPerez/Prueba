@@ -1,0 +1,18 @@
+[33mcommit c084d0b45d0275d29a23898aa9ad5c03bf3b8347[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Elkin Perez <eandresperez0@gmail.com>
+Date:   Fri Jul 5 17:11:21 2024 -0500
+
+    se añadio un parrafo mas
+
+[1mdiff --git a/Blog.html b/Blog.html[m
+[1mindex b3a6c0c..4fa112d 100644[m
+[1m--- a/Blog.html[m
+[1m+++ b/Blog.html[m
+[36m@@ -8,6 +8,7 @@[m
+             <div id="post">[m
+         <h1>Titulo del blog</h1>[m
+         <p>Este es el contenido inicial donde se vera una información</p>[m
+[32m+[m[32m        <p>elkin es un weon al que no le entra ni en pdo la info xd</p>[m
+         </div>[m
+     </div>[m
+     </body>[m
