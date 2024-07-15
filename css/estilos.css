@@ -1,5 +1,5 @@
 body {
-    background: #1e1f24;
+    background: #032D6A;
     text-align: center;
     font-family: Arial, sans-serif;
     color: black;
@@ -10,14 +10,16 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
-    border: 1px solid #ddd;
+    border: 1px solid #000000;
     margin: 0 auto;
 }
 
 #container h1 {
     font-size: 20px;
+    margin: 0;
+    padding: 1em;
 }
 
 #cabecera {
@@ -26,7 +28,7 @@ body {
     font-size: 20px;
     color: white;
     padding: 0.5em 2em;
-    background: red;
+    background: #B50606;
     font-weight: bold;
     margin: 0;
     box-shadow: 0px 2px 30px 0px rgba(0, 0, 0, 0.75);
@@ -40,12 +42,14 @@ body {
     display: block;
     font-size: 24px;
     font-weight: bold;
+    margin: 0;
 }
 
 #tagline {
     display: block;
     font-size: 16px;
     font-weight: normal;
+    margin: 0;
 }
 
 #logo {
@@ -70,4 +74,5 @@ body {
 #post {
     background: white;
     padding: 1em;
+    margin: 0;
 }
