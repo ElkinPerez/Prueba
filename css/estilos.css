@@ -83,3 +83,20 @@ body {
     text-align: center;
     padding: 0.3em;
 }
+
+.footer-section {
+    flex: 1;
+    padding: 0.5em;
+}
+
+#footer-izquierdo {
+    text-align: left;
+}
+
+#footer-medio {
+    text-align: center;
+}
+
+#footer-derecho {
+    text-align: right;
+}
